@@ -1,6 +1,8 @@
 # BestGPTs
 Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai) and [Staf.ai](https://staf.ai/)
 
+Join our [Agent Group](https://discord.gg/Esy8p4Vgna) on Discord
+
 | Name  | Link  | Description  |
 |---|---|---|
 | Code.org Lesson Planner  | <img width="220" alt="image" src="https://github.com/AgentOps-AI/BestGPTs/assets/14807319/dcbd56ed-7992-4a8e-833c-584e1e8835cd"> | Providing engaging teaching experiences for middles schoolers |
