@@ -1,5 +1,5 @@
 # BestGPTs
-Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai)
+Top ranked OpenAI GPTs, ranked and sorted by [AgentOps](https://agentops.ai) and [Staf.ai](https://staf.ai/)
 
 | Name  | Link  | Description  |
 |---|---|---|
